@@ -1,11 +1,50 @@
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="280" />
+  
+<h3 align="center">
+hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+  </h3>
+  
+  <div align="left">
+
+- I'm a <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Full Stack Web Development</a> student at <a href="https://www.betrybe.com/">Trybe</a>.
+- 🇧🇷 Currently living in Rio de Janeiro, Brazil.
+- 🏢 I'm currently working at <a href="https://www.pathisa.com.br">Pathisa</a>
+- ⚙️ I use daily: `.js`, `.ts`, `.css`, `.html`, `.json`, `.psd`
+  
+  <br/>
+  
+  
+<p align="center">
+  <a href="https://www.linkedin.com/in/barreto-pedro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="HTML tutorial"></a>
+  <a href="mailto:pbdeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="HTML tutorial" ></a>
+  
+  </p>
+
+  </div>
+  
+  
+   <br/>
+
+<h3 align="center">
+📘 My Projects
+  </h3>
+  
+  <br/>
 
 <p align="center">
-  <a href="https://github.com/pedrobarreto/sequelize-blogs-api"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=sequelize-blogs-api&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-</p>
+<a href="https://github.com/pedrobarreto/sequelize-blogs-api"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=sequelize-blogs-api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/pedrobarreto/sequelize-blogs-api"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=sequelize-blogs-api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/pedrobarreto/vegas21"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=vegas21&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
 
-### 💻 Skills / Stacks I Work With
+<br/>
 
-<br>
+<h3 align="center">
+ 💻 Skills / Stacks I Work With
+   </h3>
+
+<br/>
+
 
 <p  align="center">
 

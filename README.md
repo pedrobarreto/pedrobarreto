@@ -12,11 +12,12 @@ hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 - ⚙️ I use daily: `.js`, `.ts`, `.css`, `.html`, `.json`, `.psd`
   
   <br/>
-  
+  <br/>
   
 <p align="center">
   <a href="https://www.linkedin.com/in/barreto-pedro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="HTML tutorial"></a>
   <a href="mailto:pbdeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="HTML tutorial" ></a>
+   <a href="https://www.linkedin.com/in/barreto-pedro/"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"  alt="HTML tutorial"></a>
   
   </p>
 

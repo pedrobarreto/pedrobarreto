@@ -108,8 +108,8 @@ hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
    <br/>
 
 <div align="left">
-  <a href="https://github.com/pedrobarreto/github-readme-stats"><img align="left" alt="DenverCoder1's Github Stats" src="https://stats-pedrobarreto.vercel.app/api/?username=pedrobarreto&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/pedrobarreto/github-readme-stats"><img align="left" alt="DenverCoder1's Github Stats" src="https://stats-pedrobarreto.vercel.app/api/?username=pedrobarreto&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="150px"/></a>
 
-  <a href="https://github.com/pedrobarreto/github-readme-stats"><img align="right" alt="DenverCoder1's Top Languages" src="https://stats-pedrobarreto.vercel.app/api/top-langs/?username=pedrobarreto&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/pedrobarreto/github-readme-stats"><img align="right" alt="DenverCoder1's Top Languages" src="https://stats-pedrobarreto.vercel.app/api/top-langs/?username=pedrobarreto&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="150px"/></a>
 </div>
 

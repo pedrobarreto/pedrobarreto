@@ -1,7 +1,7 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="230" />
   
 <h3 align="center">
-hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
   </h3>
   
   <div align="left">
@@ -9,7 +9,7 @@ hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 - I'm a <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Full Stack Web Development</a> student at <a href="https://www.betrybe.com/">Trybe</a>.
 - 🇧🇷 Currently living in Rio de Janeiro, Brazil.
 - 🏢 I'm currently working at <a href="https://www.pathisa.com.br">Pathisa</a>
-- ⚙️ I use daily: `.js`, `.ts`, `.css`, `.html`, `.json`, `.psd`
+- ⚙️ I use daily: `.js`, `.ts`, `.css`, `.html`, `.json`, `.psd
   
   <br/>
   <br/>

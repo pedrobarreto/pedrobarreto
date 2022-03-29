@@ -9,7 +9,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 - I'm a <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Full Stack Web Development</a> student at <a href="https://www.betrybe.com/">Trybe</a>.
 - 🇧🇷 Currently living in Rio de Janeiro, Brazil.
 - 🏢 I'm currently working at <a href="https://www.pathisa.com.br">Pathisa</a>
-- ⚙️ I use daily: `.js`, `.ts`, `.css`, `.html`, `.json`, `.psd
+- ⚙️ I use daily: `.js`, `.ts`, `.css`, `.html`, `.json`, `.psd`
   
   <br/>
   <br/>
@@ -83,6 +83,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 &nbsp;
   
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25">
 </p>
 <p align="center">
 

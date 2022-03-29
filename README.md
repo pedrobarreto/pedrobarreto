@@ -1,4 +1,4 @@
-  <img align="right" alt="GIF" src="https://github.com/pedrobarreto/pedrobarreto/blob/main/working.gif?raw=true" width="420" height="230" />
+  <img align="right" alt="GIF" src="https://github.com/pedrobarreto/pedrobarreto/blob/main/working.gif?raw=true" width="380" height="280" />
   
 <h3 align="center">
 Hey there <img src="https://raw.githubusercontent.com/pedrobarreto/pedrobarreto/main/hi.gif" width="35px">

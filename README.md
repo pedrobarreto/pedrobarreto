@@ -112,7 +112,6 @@ Hey there <img src="https://raw.githubusercontent.com/pedrobarreto/pedrobarreto/
 
 <div align="center">
   <a href="https://github.com/pedrobarreto">
-  <img height="180em" src="https://stats-pedrobarreto.vercel.app/api?username=pedrobarreto&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://stats-pedrobarreto.vercel.app/api/top-langs/?username=pedrobarreto&layout=compact&langs_count=7&theme=react"/>
+  <img height="150em" src="https://stats-pedrobarreto.vercel.app/api?username=pedrobarreto&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://stats-pedrobarreto.vercel.app/api/top-langs/?username=pedrobarreto&layout=compact&langs_count=7&theme=react"/>
 </div></br>
-

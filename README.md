@@ -7,9 +7,10 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
   <div align="left">
 
 - I'm a <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Full Stack Web Development</a> student at <a href="https://www.betrybe.com/">Trybe</a>.
-- 🇧🇷 Currently living in Rio de Janeiro, Brazil.
+- Citizenship: 🇧🇷 Brazil, 🇵🇹 Portugal
 - 🏢 I'm currently working at <a href="https://www.pathisa.com.br">Pathisa</a>
 - ⚙️ I use daily: `.js`, `.ts`, `.css`, `.html`, `.json`, `.psd`
+- Languages: 🇧🇷  Native | 🇺🇸 Fluent
   
   <br/>
   <br/>

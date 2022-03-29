@@ -33,10 +33,10 @@ Hey there <img src="https://raw.githubusercontent.com/pedrobarreto/pedrobarreto/
   <br/>
 
 <p align="center">
-<a href="https://github.com/pedrobarreto/sequelize-blogs-api"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=sequelize-blogs-api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/pedrobarreto/frontend-store-checkout"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=frontend-store-checkout&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/pedrobarreto/vegas21"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=vegas21&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/pedrobarreto/react-recipes-app"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=react-recipes-app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/pedrobarreto/sequelize-blogs-api"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=sequelize-blogs-api&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/pedrobarreto/frontend-store-checkout"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=frontend-store-checkout&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/pedrobarreto/vegas21"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=vegas21&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/pedrobarreto/react-recipes-app"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=react-recipes-app&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
 <br/>
@@ -109,7 +109,7 @@ Hey there <img src="https://raw.githubusercontent.com/pedrobarreto/pedrobarreto/
    <br/>
 
 <div align="center">
-  <a href="https://github.com/pedrobarreto/github-readme-stats"><img alt="PedroBarreto's Github Stats" src="https://stats-pedrobarreto.vercel.app/api/?username=pedrobarreto&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/pedrobarreto/github-readme-stats"><img alt="PedroBarreto's Github Stats" src="https://stats-pedrobarreto.vercel.app/api/?username=pedrobarreto&show_icons=true&count_private=true&theme=react&hide_border=true" height="192px"/></a>
 
 </div>
 

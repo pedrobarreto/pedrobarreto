@@ -10,7 +10,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 - Citizenship: 🇧🇷 Brazil, 🇵🇹 Portugal
 - 🏢 I'm currently working at <a href="https://www.pathisa.com.br">Pathisa</a>
 - ⚙️ I use daily: `.js`, `.ts`, `.css`, `.html`, `.json`, `.psd`
-- Languages: 🇧🇷  Native | 🇺🇸 Fluent
+- Languages: 🇧🇷  Native,  🇺🇸 Fluent
   
   <br/>
   <br/>

@@ -1,7 +1,7 @@
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="230" />
+  <img align="right" alt="GIF" src="https://github.com/pedrobarreto/pedrobarreto/blob/main/working.gif?raw=true" width="420" height="230" />
   
 <h3 align="center">
-Hey there <img src="https://raw.githubusercontent.com/pedrobarreto/pedrobarreto/main/hi.gif" width="20px">
+Hey there <img src="https://raw.githubusercontent.com/pedrobarreto/pedrobarreto/main/hi.gif" width="35px">
   </h3>
   
   <div align="left">
@@ -12,7 +12,6 @@ Hey there <img src="https://raw.githubusercontent.com/pedrobarreto/pedrobarreto/
 - ⚙️ I use daily: `.js`, `.ts`, `.css`, `.html`, `.json`, `.psd`
 - Languages: 🇧🇷  Native,  🇺🇸 Fluent
   
-  <br/>
   <br/>
   
 <p align="center">

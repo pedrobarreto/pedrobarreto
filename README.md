@@ -38,6 +38,9 @@ Hey there <img src="https://raw.githubusercontent.com/pedrobarreto/pedrobarreto/
   <a href="https://github.com/pedrobarreto/frontend-store-checkout"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=frontend-store-checkout&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/pedrobarreto/vegas21"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=vegas21&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/pedrobarreto/react-recipes-app"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=react-recipes-app&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/pedrobarreto/online-store-rest-api"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=online-store-rest-api&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/pedrobarreto/react-chatbot"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=react-chatbot&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+ 
   </p>
 
 <br/>

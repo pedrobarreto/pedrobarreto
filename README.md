@@ -65,8 +65,10 @@ Hey there <img src="https://raw.githubusercontent.com/pedrobarreto/pedrobarreto/
   </p>
   
   <p  align="center">
-
   
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"/>
+  &nbsp;
+
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
   &nbsp;
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="25"/>
@@ -74,9 +76,11 @@ Hey there <img src="https://raw.githubusercontent.com/pedrobarreto/pedrobarreto/
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="25"/>  
  </p>
  
- <p  align="center">
-
+ <p align="center">
   
+<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" height="25">
+  &nbsp;
+   
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" height="25">
   &nbsp;
 
@@ -87,10 +91,12 @@ Hey there <img src="https://raw.githubusercontent.com/pedrobarreto/pedrobarreto/
 &nbsp;
   
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25">
+  &nbsp;
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="25">
 </p>
-<p align="center">
 
+<p align="center">
+  
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25">
 &nbsp;
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25">

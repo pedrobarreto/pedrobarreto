@@ -1,7 +1,7 @@
   <img align="right" alt="Programming" src="https://github.com/pedrobarreto/pedrobarreto/blob/main/coding.jpg" width="380" height="270" />
   
 <h3 align="center">
-Hey there <img src="https://raw.githubusercontent.com/pedrobarreto/pedrobarreto/main/hi.gif" width="35px">
+Hey there 👋
   </h3>
   
   <div align="left">

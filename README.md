@@ -8,7 +8,7 @@ Hey there 👋
 
 - I'm a <a href="https://www.betrybe.com/formacao-desenvolvimento-web">Full Stack Web Development</a> student at <a href="https://www.betrybe.com/">Trybe</a>.
 - Citizenship: 🇧🇷 Brazilian, 🇵🇹 Portuguese
-- 🏢 I'm currently working at <a href="https://www.pathisa.com.br">Pathisa</a>
+- 🏢 I'm currently working at <a href="https://www.sumicity.com.br/">Sumicity</a>
 - ⚙️ I use daily: `.js`, `.ts`, `.css`, `.html`, `.json`, `.psd`
 - Languages: 🇧🇷  Native,  🇺🇸 Fluent
   

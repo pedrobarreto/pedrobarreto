@@ -35,7 +35,7 @@ Hey there 👋
 
 <p align="center">
   <a href="https://github.com/pedrobarreto/next-ts-blog"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=next-ts-blog&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-<a href="https://github.com/pedrobarreto/sequelize-blogs-api"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=sequelize-blogs-api&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/pedrobarreto/acc-java-drone-feeder"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=acc-java-drone-feeder&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/pedrobarreto/frontend-store-checkout"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=frontend-store-checkout&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/pedrobarreto/vegas21"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=vegas21&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/pedrobarreto/online-store-rest-api"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=online-store-rest-api&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>

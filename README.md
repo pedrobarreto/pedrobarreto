@@ -6,7 +6,7 @@ Hey there 👋
   
   <div align="left">
 
-- I'm a Full Stack Web Developer.</a>
+- I'm a Full Stack Developer.</a>
 - Citizenship: 🇧🇷 Brazilian, 🇵🇹 Portuguese
 - 🏢 I'm currently working at <a href="https://www.sumicity.com.br/">Sumicity</a>
 - ⚙️ I use daily: `.java`, `.js`, `.ts`, `.css`, `.html`, `.json`

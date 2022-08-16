@@ -28,7 +28,7 @@ Hey there 👋
    <br/>
 
 <h3 align="center">
-📘 My Projects
+📘 Featured Projects
   </h3>
   
   <br/>

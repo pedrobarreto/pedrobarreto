@@ -123,11 +123,13 @@ Hey there 👋
 
 </h3>
 
-<br/>
+<div align="center">
 
 ### <a href="https://github.com/pedrobarreto/Java-bootcamp-exercises">Java Bootcamp Projects</a>  ☕
 
 ### <a href="https://github.com/pedrobarreto/trybe-projects"> Javascript, TypeScript and Python Projects </a>  
+
+</div>
 <br/>
 
 

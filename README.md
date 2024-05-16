@@ -6,9 +6,9 @@ Hey there 👋
   
   <div align="left">
 
-- I'm a Full Stack Developer.</a>
+- Founder, <a href="https://www.aumorperfeito.com.br/"> Aumor Perfeito</a> 🐾  - Find your best buddy.</a>
 - Citizenship: 🇧🇷 Brazilian, 🇵🇹 Portuguese
-- 🏢 Founder, Aumor Perfeito 🐾  - Find your best buddy. <a href="https://www.aumorperfeito.com.br/"> Download now</a>
+- I'm a Full Stack Developer
 - ⚙️ I use daily: `.java`, `.js`, `.ts`, `.css`, `.html`, `.json`
 - Languages: 🇧🇷  Native,  🇺🇸 Fluent
   

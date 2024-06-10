@@ -34,9 +34,9 @@ Hey there 👋
   <br/>
 
 <p align="center">
-  <a href="https://github.com/pedrobarreto/next-ts-blog"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=next-ts-blog&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/pedrobarreto/aumor-perfeito-app"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=aumor-perfeito-app&theme=react&hide_border=true&show_icons=false" alt="aumor-perfeito-app"></a>
 <a href="https://github.com/pedrobarreto/acc-java-drone-feeder"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=acc-java-drone-feeder&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/pedrobarreto/frontend-store-checkout"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=frontend-store-checkout&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/pedrobarreto/curriculoats"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=curriculoats&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/pedrobarreto/vegas21"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=vegas21&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/pedrobarreto/online-store-rest-api"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=online-store-rest-api&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/pedrobarreto/react-trivia-game"><img width="282" src="https://stats-pedrobarreto.vercel.app/api/pin/?username=pedrobarreto&repo=react-trivia-game&theme=react&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -143,5 +143,5 @@ Hey there 👋
 <div align="center">
   <a href="https://github.com/pedrobarreto">
   <img height="150em" src="https://stats-pedrobarreto.vercel.app/api?username=pedrobarreto&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://stats-pedrobarreto.vercel.app/api/top-langs/?username=pedrobarreto&layout=compact&langs_count=7&theme=react"/>
+<!--   <img height="150em" src="https://stats-pedrobarreto.vercel.app/api/top-langs/?username=pedrobarreto&layout=compact&langs_count=7&theme=react"/> -->
 </div></br>
